@@ -7,7 +7,10 @@
 
 
 ОТОБРАЖЕНИЕ ДАННЫХ
+
 ![image](https://github.com/armamaskh/kursachOOP/assets/132794148/e07f2a5c-b3f6-4a6f-9cca-da5ddeb0a6a6)
 
+
 ПОИСК ИНФОРМАЦИИ ПО КЛЮЧЕВОМУ СЛОВУ
+
 ![image](https://github.com/armamaskh/kursachOOP/assets/132794148/cfb261f8-e6e7-4f52-956f-854252bdff4f)
